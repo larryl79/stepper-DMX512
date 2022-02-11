@@ -20,3 +20,16 @@ Code and library are available at
 https://drive.google.com/file/d/1DAAh...
 Arduino Library 
 https://github.com/mathertel/DMXSerial
+
+
+▬▬▬▬▬▬  Contents of credits video  ▬▬▬▬▬▬
+0:00 - Demo
+0:24 - Introduction
+1:59 - TB6600 Connections
+5:00 - Explain Circuit and Channel Selection
+6:16 - DMX512 Controller Details JIA J191
+8:08 - IC MAX485 PINs and Connections
+9:46 - Arduino Sketch Explanation 
+12:28 - Upload the Arduino Sketch
+13:30 - Get Started Stepper Motor Working
+17:02 - Subscription Request and Thanks
