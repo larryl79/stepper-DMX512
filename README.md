@@ -1,7 +1,9 @@
 # stepper-DMX512
 Stepper motor control by DMX512
 
-This code not by me, I just publicated it on github to find easier (and saved for myself too). Credits to https://www.youtube.com/watch?v=RtvbEccsefk
+This code not by me, I just publicated it on github to find easier (and saved for myself too). I planning expand this code later to a lagre project.
+
+Credits to https://www.youtube.com/watch?v=RtvbEccsefk
 
 How to Make DMX512 Fixture Using Arduino to Control the Stepper Motor | How to Build DMX512 Fixture
 
